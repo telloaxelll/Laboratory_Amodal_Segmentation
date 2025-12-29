@@ -3,9 +3,3 @@
 ## Abstract
 
 ## Related Works
-
-## Results
-
-## Discussion
-
-## Conclusion
